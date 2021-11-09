@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="textButton1">Вывод текста</string>
+    <string name="textButton2">Меняем цвет</string>
+    <string name="textButton3">Выход</string>
+    <string name="text1">Homework</string>
+    <string name="text2">Style</string>
+</resources>
